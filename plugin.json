@@ -1,0 +1,17 @@
+{
+    "metadata": {
+    "author": "dragonboy",
+    "description": "rãnh rỗi"
+  },
+  "data": {
+    "name": "Nhentai wolrd",
+    "author": "dragonboy",
+    "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/plugin.zip",
+    "version": 1,
+    "source": "https://nhentaiworld-h1.info/",
+    "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/icon.png",
+    "description": "Đọc truyện trên trang Nhentai wolrd",
+    "type": "comic",
+    "locale": "vi_VN"
+  }
+}
