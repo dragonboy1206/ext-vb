@@ -1,0 +1,22 @@
+{
+    "metadata": {
+      "name": "Nhentai word",
+      "author": "drgonnboyyy",
+      "version": 1,
+      "source": "https://nhentaiworld-h1.info/",
+      "regexp": "(www.)?nhentaiworld-h1.info/.*",
+      "description": "none",
+      "locale": "vi_VN",
+      "language": "javascript",
+      "type": "comic",
+      "tag": "none"
+    },
+    "script": {
+      "home": "home.js",
+      "genre": "genre.js",
+      "detail": "detail.js",
+      "search": "search.js",
+      "toc": "toc.js",
+      "chap": "chap.js"
+    }
+  }
