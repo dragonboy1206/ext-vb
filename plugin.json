@@ -3,15 +3,17 @@
     "author": "dragonboy",
     "description": "rãnh rỗi"
   },
-  "data": {
-    "name": "Nhentai wolrd",
-    "author": "dragonboy",
-    "path": "https://raw.githubusercontent.com/dragonboy1206/vbook-ext/main/Nhentai-wolrdplugin.zip",
-    "version": 1,
-    "source": "https://nhentaiworld-h1.info/",
-    "icon": "https://raw.githubusercontent.com/dragonboy1206/vbook-ext/main/Nhentai-wolrdicon.png",
-    "description": "Đọc truyện trên trang Nhentai wolrd",
-    "type": "comic",
-    "locale": "vi_VN"
-  }
+  "data": [
+        {
+        "name": "Nhentai wolrd",
+        "author": "dragonboy",
+        "path": "https://raw.githubusercontent.com/dragonboy1206/vbook-ext/main/Nhentai-wolrdplugin.zip",
+        "version": 1,
+        "source": "https://nhentaiworld-h1.info/",
+        "icon": "https://raw.githubusercontent.com/dragonboy1206/vbook-ext/main/Nhentai-wolrdicon.png",
+        "description": "Đọc truyện trên trang Nhentai wolrd",
+        "type": "comic",
+        "locale": "vi_VN"
+        }
+    ]
 }
