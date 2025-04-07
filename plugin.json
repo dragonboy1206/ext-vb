@@ -7,10 +7,10 @@
         {
         "name": "Nhentai wolrd",
         "author": "dragonboy",
-        "path": "https://raw.githubusercontent.com/dragonboy1206/ext-vb/refs/heads/main/Nhentai-wolrd/plugin.zip",
+        "path": "https://raw.githubusercontent.com/dragonboy1206/ext-vb/main/Nhentai-wolrd/plugin.zip",
         "version": 1,
         "source": "https://nhentaiworld-h1.info/",
-        "icon": "https://raw.githubusercontent.com/dragonboy1206/ext-vb/refs/heads/main/Nhentai-wolrd/icon.png",
+        "icon": "https://raw.githubusercontent.com/dragonboy1206/ext-vb/main/Nhentai-wolrd/logo.png",
         "description": "Đọc truyện trên trang Nhentai wolrd",
         "type": "comic",
         "locale": "vi_VN"
